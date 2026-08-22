@@ -2153,7 +2153,7 @@ Useful commands provided by these packages:
 * Review `.pacnew` and `.pacsave` files after relevant package upgrades.
 * AUR packages are unofficial. Review the `PKGBUILD` before building.
 * Keep backups before making important system changes.
-
+* Modified and structured with the help of ChatGPT 5.6 High
 ---
 
 # References
